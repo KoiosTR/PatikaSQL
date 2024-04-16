@@ -1,0 +1,2 @@
+# PatikaSQL
+Patika SQL Eğitimi
