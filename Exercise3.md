@@ -1,4 +1,4 @@
-# Patika SQL Eğitim Odev 1
+# Patika SQL Eğitim Odev 3
 
 1. Country tablosunda bulunan country sütunundaki ülke isimlerinden 'A' karakteri ile başlayıp 'a' karakteri ile sonlananları sıralayınız.
 ```
