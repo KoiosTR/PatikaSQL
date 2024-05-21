@@ -73,4 +73,25 @@ WHERE id = 50;
 UPDATE employee
 SET name = 'Gülistan', email = 'yilmaz@top.com'
 WHERE id = 31;
+----
+UPDATE employee
+SET name = 'Samet', email = 'samet@gungor.com'
+WHERE id = 41;
+----
+UPDATE employee
+SET name = 'Ali', email = 'ali@gungor.com'
+WHERE id = 29;
+----
+UPDATE employee
+SET name = 'Hakan', email = 'hakan@yagar.com'
+WHERE id = 10;
+```
+
+4. Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
+```
+DELETE FROM employee WHERE id = 47;
+DELETE FROM employee WHERE id = 1;
+DELETE FROM employee WHERE id = 10;
+DELETE FROM employee WHERE id = 21;
+DELETE FROM employee WHERE id = 15;
 ```
